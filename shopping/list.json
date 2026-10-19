@@ -4,12 +4,12 @@
     {
       "id": "64c33535-7dab-4b22-8929-08c790ce254e",
       "text": "Semi skimmed milk",
-      "checked": true
+      "checked": false
     },
     {
       "id": "175ac4e7-4980-4a46-bb5f-f92d608d4b3f",
       "text": "Cucumber",
-      "checked": true
+      "checked": false
     },
     {
       "id": "b0a936a4-0d8f-4484-81c3-1c30f9445855",
@@ -34,6 +34,16 @@
     {
       "id": "a0042275-0fac-47b6-9a85-2f6eab74713c",
       "text": "Whipping cream",
+      "checked": false
+    },
+    {
+      "id": "0db2ea70-1991-4e9e-ab23-ab7ccc60cf74",
+      "text": "Cornwall milk",
+      "checked": false
+    },
+    {
+      "id": "c2404eec-cb7e-4ca6-b260-7f959425acb4",
+      "text": "Whole milk",
       "checked": false
     }
   ]

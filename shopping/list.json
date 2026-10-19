@@ -10,6 +10,11 @@
       "id": "c2404eec-cb7e-4ca6-b260-7f959425acb4",
       "text": "Whole milk",
       "checked": false
+    },
+    {
+      "id": "7370de6a-ca38-4590-8a1f-449c4331dfdd",
+      "text": "Romaine Lettuce",
+      "checked": false
     }
   ]
 }

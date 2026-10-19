@@ -15,6 +15,11 @@
       "id": "64c33535-7dab-4b22-8929-08c790ce254e",
       "text": "Semi skimmed milk",
       "checked": false
+    },
+    {
+      "id": "175ac4e7-4980-4a46-bb5f-f92d608d4b3f",
+      "text": "Cucumber",
+      "checked": false
     }
   ]
 }

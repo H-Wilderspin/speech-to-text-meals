@@ -4,7 +4,7 @@
     {
       "id": "64c33535-7dab-4b22-8929-08c790ce254e",
       "text": "Semi skimmed milk",
-      "checked": false
+      "checked": true
     },
     {
       "id": "175ac4e7-4980-4a46-bb5f-f92d608d4b3f",
@@ -24,6 +24,11 @@
     {
       "id": "eedd5cb1-e3a7-4bbf-adb6-1671d3bd56d2",
       "text": "Double cream",
+      "checked": false
+    },
+    {
+      "id": "cf07b92b-4220-4aa2-a48c-cf574761ee6a",
+      "text": "Wet wipes",
       "checked": false
     }
   ]

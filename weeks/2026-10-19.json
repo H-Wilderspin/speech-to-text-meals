@@ -1,4 +1,6 @@
 {
   "version": 1,
-  "meals": {}
+  "meals": {
+    "2026-10-25/breakfast": "Crustless quiche & baby tomatoes"
+  }
 }

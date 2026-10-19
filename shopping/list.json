@@ -9,11 +9,21 @@
     {
       "id": "175ac4e7-4980-4a46-bb5f-f92d608d4b3f",
       "text": "Cucumber",
-      "checked": false
+      "checked": true
     },
     {
       "id": "b0a936a4-0d8f-4484-81c3-1c30f9445855",
       "text": "Puppy pads",
+      "checked": false
+    },
+    {
+      "id": "17a6f8dc-5b32-44ad-b545-df261ab9e58e",
+      "text": "Strawberries",
+      "checked": false
+    },
+    {
+      "id": "eedd5cb1-e3a7-4bbf-adb6-1671d3bd56d2",
+      "text": "Double cream",
       "checked": false
     }
   ]

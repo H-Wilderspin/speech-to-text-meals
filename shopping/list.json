@@ -20,6 +20,11 @@
       "id": "77fe8a73-22b0-4855-b397-e5e7e50b7c89",
       "text": "Apples",
       "checked": false
+    },
+    {
+      "id": "4a95ce89-0ef3-4bc2-bb59-79d2e8236551",
+      "text": "Jamón serrano",
+      "checked": false
     }
   ]
 }

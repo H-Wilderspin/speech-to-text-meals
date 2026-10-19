@@ -1,4 +1,10 @@
 {
   "version": 1,
-  "items": []
+  "items": [
+    {
+      "id": "8182aabe-3d38-4cc5-8d98-271d43ac2130",
+      "text": "Wet wipes",
+      "checked": false
+    }
+  ]
 }

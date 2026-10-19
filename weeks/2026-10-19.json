@@ -1,7 +1,6 @@
 {
-  "version": 1,
+  "version": 2,
   "meals": {
-    "2026-10-25/breakfast": "Crustless quiche & baby tomatoes",
     "2026-10-25/lunch": "Soft boiled egg & toast. Optional marmalade on toast",
     "2026-10-25/dinner": "Special family meal. Possibly Donald Russel."
   }

@@ -7,11 +7,6 @@
       "checked": false
     },
     {
-      "id": "c2404eec-cb7e-4ca6-b260-7f959425acb4",
-      "text": "Whole milk",
-      "checked": false
-    },
-    {
       "id": "7370de6a-ca38-4590-8a1f-449c4331dfdd",
       "text": "Romaine Lettuce",
       "checked": false
@@ -19,6 +14,11 @@
     {
       "id": "ee57fcbe-644f-4587-9e1f-c66d7009bd70",
       "text": "Houmous",
+      "checked": false
+    },
+    {
+      "id": "77fe8a73-22b0-4855-b397-e5e7e50b7c89",
+      "text": "Apples",
       "checked": false
     }
   ]

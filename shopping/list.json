@@ -2,31 +2,6 @@
   "version": 1,
   "items": [
     {
-      "id": "64c33535-7dab-4b22-8929-08c790ce254e",
-      "text": "Semi skimmed milk",
-      "checked": false
-    },
-    {
-      "id": "17a6f8dc-5b32-44ad-b545-df261ab9e58e",
-      "text": "Strawberries",
-      "checked": false
-    },
-    {
-      "id": "eedd5cb1-e3a7-4bbf-adb6-1671d3bd56d2",
-      "text": "Double cream",
-      "checked": false
-    },
-    {
-      "id": "cf07b92b-4220-4aa2-a48c-cf574761ee6a",
-      "text": "Wet wipes",
-      "checked": false
-    },
-    {
-      "id": "a0042275-0fac-47b6-9a85-2f6eab74713c",
-      "text": "Whipping cream",
-      "checked": false
-    },
-    {
       "id": "0db2ea70-1991-4e9e-ab23-ab7ccc60cf74",
       "text": "Cornwall milk",
       "checked": false

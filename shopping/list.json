@@ -1,4 +1,10 @@
 {
   "version": 1,
-  "items": []
+  "items": [
+    {
+      "id": "91a32a98-62c5-4b30-a172-2847f77aaad8",
+      "text": "apples",
+      "checked": false
+    }
+  ]
 }

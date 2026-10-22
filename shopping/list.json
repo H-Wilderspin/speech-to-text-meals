@@ -30,6 +30,11 @@
       "id": "fc9afd2b-3ad5-4200-b1cb-e6c8af31851d",
       "text": "mango",
       "checked": false
+    },
+    {
+      "id": "628d8c3a-8d71-46cb-9c48-fb2e80cc33d8",
+      "text": "eggs x 2",
+      "checked": false
     }
   ]
 }

@@ -45,6 +45,11 @@
       "id": "04ffb4f7-eac2-4684-86b1-638b0e0c8946",
       "text": "Blackberries",
       "checked": false
+    },
+    {
+      "id": "f4479b0a-22b0-4103-9aea-cd881401b066",
+      "text": "Sugar free lemon squash",
+      "checked": false
     }
   ]
 }

@@ -1,4 +1,10 @@
 {
   "version": 1,
-  "items": []
+  "items": [
+    {
+      "id": "740eaed8-a5ca-4ca3-8a68-095164549e94",
+      "text": "Whipping cream",
+      "checked": false
+    }
+  ]
 }

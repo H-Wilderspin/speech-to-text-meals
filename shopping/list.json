@@ -10,6 +10,16 @@
       "id": "9f846ccf-756f-46e5-b09f-59c5e2b5c149",
       "text": "Cherry tomatoes",
       "checked": false
+    },
+    {
+      "id": "4b9eb84e-a3ac-4070-9c61-89e372a70dcd",
+      "text": "Coffee",
+      "checked": false
+    },
+    {
+      "id": "f0f90c02-1d8c-4a7f-b110-4c2513bc4e73",
+      "text": "Carrots",
+      "checked": false
     }
   ]
 }

@@ -10,6 +10,16 @@
       "id": "54cd57fe-6d92-4756-8956-89e105f731cb",
       "text": "Cavelo Nero",
       "checked": true
+    },
+    {
+      "id": "faa0d4c3-ade8-4e9e-ae30-eb78ecbc230e",
+      "text": "Carrots",
+      "checked": false
+    },
+    {
+      "id": "e900fed1-3790-4b0c-b720-7eab8a54885c",
+      "text": "Curly kale",
+      "checked": false
     }
   ]
 }

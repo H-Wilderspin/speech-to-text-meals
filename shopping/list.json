@@ -20,6 +20,11 @@
       "id": "7322b796-489f-4a58-85b3-c7e8f0e4718c",
       "text": "Broccoli",
       "checked": false
+    },
+    {
+      "id": "c3695e95-4bef-4cc0-a352-1f8ccb6cdfdd",
+      "text": "Pears",
+      "checked": false
     }
   ]
 }

@@ -25,6 +25,11 @@
       "id": "82641d9f-98a7-48d2-a925-244783f0ff4b",
       "text": "Rhubarb",
       "checked": false
+    },
+    {
+      "id": "e1a3d6e0-7406-4503-8e00-4b03adb75dd4",
+      "text": "Bechamel sauce",
+      "checked": false
     }
   ]
 }

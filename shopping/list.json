@@ -42,14 +42,9 @@
       "checked": true
     },
     {
-      "id": "b73d0d58-2bb6-4f2a-9334-01b90a09d0cc",
-      "text": "Raspberries",
-      "checked": false
-    },
-    {
       "id": "ccf5b246-5891-4bd0-a879-ab273558ff4c",
       "text": "Brown Eggs",
-      "checked": false
+      "checked": true
     }
   ]
 }

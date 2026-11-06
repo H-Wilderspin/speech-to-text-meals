@@ -35,6 +35,16 @@
       "id": "f6c90dec-d81e-42d3-82a6-20442d9ed378",
       "text": "Cherry tomatoes",
       "checked": true
+    },
+    {
+      "id": "e72762e6-ed49-423b-90c9-9be49daeccf1",
+      "text": "Lemons",
+      "checked": true
+    },
+    {
+      "id": "b73d0d58-2bb6-4f2a-9334-01b90a09d0cc",
+      "text": "Raspberries",
+      "checked": false
     }
   ]
 }

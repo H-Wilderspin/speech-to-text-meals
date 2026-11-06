@@ -29,12 +29,12 @@
     {
       "id": "78b7a674-c553-4524-97bd-e5e030272dee",
       "text": "Semi skimmed milk",
-      "checked": false
+      "checked": true
     },
     {
       "id": "f6c90dec-d81e-42d3-82a6-20442d9ed378",
       "text": "Cherry tomatoes",
-      "checked": false
+      "checked": true
     }
   ]
 }

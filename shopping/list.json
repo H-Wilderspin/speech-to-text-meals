@@ -17,11 +17,6 @@
       "checked": false
     },
     {
-      "id": "5826ecb3-eba6-4d7f-9abb-1cfce8e61904",
-      "text": "Whipping cream",
-      "checked": false
-    },
-    {
       "id": "82641d9f-98a7-48d2-a925-244783f0ff4b",
       "text": "Rhubarb",
       "checked": false
@@ -29,6 +24,16 @@
     {
       "id": "e1a3d6e0-7406-4503-8e00-4b03adb75dd4",
       "text": "Bechamel sauce",
+      "checked": false
+    },
+    {
+      "id": "78b7a674-c553-4524-97bd-e5e030272dee",
+      "text": "Semi skimmed milk",
+      "checked": false
+    },
+    {
+      "id": "f6c90dec-d81e-42d3-82a6-20442d9ed378",
+      "text": "Cherry tomatoes",
       "checked": false
     }
   ]

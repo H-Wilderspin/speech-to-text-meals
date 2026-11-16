@@ -8,7 +8,7 @@
     },
     {
       "id": "54cd57fe-6d92-4756-8956-89e105f731cb",
-      "text": "Cavelo Nero",
+      "text": "Cavolo Nero",
       "checked": true
     },
     {
@@ -49,6 +49,16 @@
     {
       "id": "ed0c9f1e-ef7e-43e2-b0fa-76ac2406e351",
       "text": "Sweetheart cabbage",
+      "checked": false
+    },
+    {
+      "id": "73e63923-ee79-4366-aeec-8e5c2282e4c4",
+      "text": "Green beans",
+      "checked": false
+    },
+    {
+      "id": "8da7397e-5351-4e43-a82d-27a87c05a37d",
+      "text": "Carrots",
       "checked": false
     }
   ]

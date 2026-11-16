@@ -29,22 +29,22 @@
     {
       "id": "78b7a674-c553-4524-97bd-e5e030272dee",
       "text": "Semi skimmed milk",
-      "checked": true
+      "checked": false
     },
     {
       "id": "f6c90dec-d81e-42d3-82a6-20442d9ed378",
       "text": "Cherry tomatoes",
-      "checked": true
+      "checked": false
     },
     {
       "id": "e72762e6-ed49-423b-90c9-9be49daeccf1",
       "text": "Lemons",
-      "checked": true
+      "checked": false
     },
     {
       "id": "ccf5b246-5891-4bd0-a879-ab273558ff4c",
       "text": "Brown Eggs",
-      "checked": true
+      "checked": false
     },
     {
       "id": "ed0c9f1e-ef7e-43e2-b0fa-76ac2406e351",
@@ -59,6 +59,11 @@
     {
       "id": "8da7397e-5351-4e43-a82d-27a87c05a37d",
       "text": "Carrots",
+      "checked": false
+    },
+    {
+      "id": "64b0a95b-1fc8-4a02-854c-11945bdd8201",
+      "text": "Cheddar cheese",
       "checked": false
     }
   ]

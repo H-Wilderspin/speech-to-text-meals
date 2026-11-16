@@ -9,7 +9,7 @@
     {
       "id": "54cd57fe-6d92-4756-8956-89e105f731cb",
       "text": "Cavolo Nero",
-      "checked": true
+      "checked": false
     },
     {
       "id": "7322b796-489f-4a58-85b3-c7e8f0e4718c",
@@ -17,33 +17,8 @@
       "checked": false
     },
     {
-      "id": "82641d9f-98a7-48d2-a925-244783f0ff4b",
-      "text": "Rhubarb",
-      "checked": false
-    },
-    {
-      "id": "e1a3d6e0-7406-4503-8e00-4b03adb75dd4",
-      "text": "Bechamel sauce",
-      "checked": false
-    },
-    {
       "id": "78b7a674-c553-4524-97bd-e5e030272dee",
       "text": "Semi skimmed milk",
-      "checked": false
-    },
-    {
-      "id": "f6c90dec-d81e-42d3-82a6-20442d9ed378",
-      "text": "Cherry tomatoes",
-      "checked": false
-    },
-    {
-      "id": "e72762e6-ed49-423b-90c9-9be49daeccf1",
-      "text": "Lemons",
-      "checked": false
-    },
-    {
-      "id": "ccf5b246-5891-4bd0-a879-ab273558ff4c",
-      "text": "Brown Eggs",
       "checked": false
     },
     {

@@ -9,7 +9,7 @@
     {
       "id": "54cd57fe-6d92-4756-8956-89e105f731cb",
       "text": "Cavelo Nero",
-      "checked": false
+      "checked": true
     },
     {
       "id": "7322b796-489f-4a58-85b3-c7e8f0e4718c",
@@ -45,6 +45,11 @@
       "id": "ccf5b246-5891-4bd0-a879-ab273558ff4c",
       "text": "Brown Eggs",
       "checked": true
+    },
+    {
+      "id": "ed0c9f1e-ef7e-43e2-b0fa-76ac2406e351",
+      "text": "Sweetheart cabbage",
+      "checked": false
     }
   ]
 }

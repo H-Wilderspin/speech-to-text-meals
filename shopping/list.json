@@ -50,6 +50,16 @@
       "id": "99dae743-7b81-499b-80d1-5b00e70aaa11",
       "text": "Sweetheart cabbage",
       "checked": false
+    },
+    {
+      "id": "f6cfdb4f-0654-4f58-9d4a-d5411571e622",
+      "text": "Semi skimmed milk",
+      "checked": false
+    },
+    {
+      "id": "290b9151-7422-40af-ab86-93303e6f21a4",
+      "text": "Whole milk",
+      "checked": false
     }
   ]
 }

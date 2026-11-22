@@ -40,6 +40,16 @@
       "id": "82cc6067-7ec5-47a5-94fb-cc751310861f",
       "text": "Romano lettuce",
       "checked": false
+    },
+    {
+      "id": "3ec98ab5-3d02-467b-b7ad-cc844cbd2267",
+      "text": "Whipping cream",
+      "checked": false
+    },
+    {
+      "id": "99dae743-7b81-499b-80d1-5b00e70aaa11",
+      "text": "Sweetheart cabbage",
+      "checked": false
     }
   ]
 }

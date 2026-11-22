@@ -30,6 +30,11 @@
       "id": "6d8d4486-4278-411c-9993-99e02d8728f6",
       "text": "Plain flour",
       "checked": false
+    },
+    {
+      "id": "7588cbcc-d761-4d72-bec1-0c3cab387977",
+      "text": "Soured cream",
+      "checked": false
     }
   ]
 }

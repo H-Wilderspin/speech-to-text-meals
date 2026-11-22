@@ -1,4 +1,10 @@
 {
   "version": 1,
-  "items": []
+  "items": [
+    {
+      "id": "46a5ff62-8e70-434f-a472-c4d03325a9ee",
+      "text": "Clotted cream",
+      "checked": false
+    }
+  ]
 }

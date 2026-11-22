@@ -60,6 +60,16 @@
       "id": "290b9151-7422-40af-ab86-93303e6f21a4",
       "text": "Whole milk",
       "checked": false
+    },
+    {
+      "id": "6303cf67-c86e-42f0-881c-9974c1746dae",
+      "text": "Puppy pads",
+      "checked": false
+    },
+    {
+      "id": "9d4660c4-0757-41f9-ac62-7f2b60074961",
+      "text": "Pants",
+      "checked": false
     }
   ]
 }

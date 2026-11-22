@@ -1,45 +1,4 @@
 {
   "version": 1,
-  "items": [
-    {
-      "id": "ff208ceb-1af4-4405-be50-aaa399d5caad",
-      "text": "Elderflower cordial",
-      "checked": false
-    },
-    {
-      "id": "54cd57fe-6d92-4756-8956-89e105f731cb",
-      "text": "Cavolo Nero",
-      "checked": false
-    },
-    {
-      "id": "7322b796-489f-4a58-85b3-c7e8f0e4718c",
-      "text": "Broccoli",
-      "checked": false
-    },
-    {
-      "id": "78b7a674-c553-4524-97bd-e5e030272dee",
-      "text": "Semi skimmed milk",
-      "checked": false
-    },
-    {
-      "id": "ed0c9f1e-ef7e-43e2-b0fa-76ac2406e351",
-      "text": "Sweetheart cabbage",
-      "checked": false
-    },
-    {
-      "id": "73e63923-ee79-4366-aeec-8e5c2282e4c4",
-      "text": "Green beans",
-      "checked": false
-    },
-    {
-      "id": "8da7397e-5351-4e43-a82d-27a87c05a37d",
-      "text": "Carrots",
-      "checked": false
-    },
-    {
-      "id": "64b0a95b-1fc8-4a02-854c-11945bdd8201",
-      "text": "Cheddar cheese",
-      "checked": false
-    }
-  ]
+  "items": []
 }

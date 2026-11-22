@@ -5,6 +5,11 @@
       "id": "46a5ff62-8e70-434f-a472-c4d03325a9ee",
       "text": "Clotted cream",
       "checked": false
+    },
+    {
+      "id": "bcec7d7c-ed3f-4286-a3ef-8837e1fd277f",
+      "text": "Jam",
+      "checked": false
     }
   ]
 }

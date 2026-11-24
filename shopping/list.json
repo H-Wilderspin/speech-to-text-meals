@@ -1,4 +1,10 @@
 {
   "version": 1,
-  "items": []
+  "items": [
+    {
+      "id": "79124b58-0923-497a-b6e8-a32e6b323606",
+      "text": "Sugar free marmalade",
+      "checked": false
+    }
+  ]
 }

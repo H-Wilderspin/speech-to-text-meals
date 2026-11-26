@@ -25,6 +25,31 @@
       "id": "2960489c-849e-4e51-bc35-ade475c612be",
       "text": "Carrots",
       "checked": false
+    },
+    {
+      "id": "36292e09-7888-4e67-ae24-4507e7a8c4e6",
+      "text": "Raspberries",
+      "checked": false
+    },
+    {
+      "id": "c71df43c-aba8-482b-817d-2bece45c7222",
+      "text": "Double cream",
+      "checked": false
+    },
+    {
+      "id": "9a45201b-750b-4588-ba64-fea122cac506",
+      "text": "Parmesan",
+      "checked": false
+    },
+    {
+      "id": "1f8d7233-9fd4-47e7-a340-2e9562ff6f99",
+      "text": "Cheddar cheese",
+      "checked": false
+    },
+    {
+      "id": "bacfbac3-adb3-41d1-a703-61c7a93a6a8e",
+      "text": "Whipping cream",
+      "checked": false
     }
   ]
 }
